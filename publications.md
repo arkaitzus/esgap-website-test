@@ -13,22 +13,22 @@
 
 **Biophysical ESGAP: SESI and SESPI**
 
-1. Garcés Arango, E., Franco, C. J., Usubiaga‑Liaño, A., Ruiz‑Agudelo, C. A., & Fairbrass, A. (2025). *Assessing environmental sustainability in Colombia: Metrics and policy recommendations.* Environmental and Sustainability Indicators, 27, 100812. https://doi.org/10.1016/j.indic.2025.100812 :contentReference[oaicite:5]{index=5}
+1. Garcés Arango, E., Franco, C. J., Usubiaga‑Liaño, A., Ruiz‑Agudelo, C. A., & Fairbrass, A. (2025). *Assessing environmental sustainability in Colombia: Metrics and policy recommendations.* Environmental and Sustainability Indicators, 27, 100812. https://doi.org/10.1016/j.indic.2025.100812 
 
-1. Sato, M., Usubiaga‑Liaño, A., Fairbrass, A., Ekins, P., & Asuka, J. (2024). *Monitoring environmental sustainability in Japan: An ESGAP assessment.* Sustainability Science, 19, 539–553. https://doi.org/10.1007/s11625-023-01441-x :contentReference[oaicite:3]{index=3}
+1. Sato, M., Usubiaga‑Liaño, A., Fairbrass, A., Ekins, P., & Asuka, J. (2024). *Monitoring environmental sustainability in Japan: An ESGAP assessment.* Sustainability Science, 19, 539–553. https://doi.org/10.1007/s11625-023-01441-x
+  
+1. Comte, A., Surun, C., & Levrel, H. (2023). *Measuring and managing for environmental sustainability: An application of the Environmental Sustainability Gap (ESGAP) framework in New Caledonia.* Environmental Science & Policy, 146, 113–122. https://doi.org/10.1016/j.envsci.2023.05.007 
 
-1. Comte, A., Surun, C., & Levrel, H. (2023). *Measuring and managing for environmental sustainability: An application of the Environmental Sustainability Gap (ESGAP) framework in New Caledonia.* Environmental Science & Policy, 146, 113–122. https://doi.org/10.1016/j.envsci.2023.05.007 :contentReference[oaicite:4]{index=4}
+1. Usubiaga‑Liaño, A., & Ekins, P. (2022). *Are we on the right path? Measuring progress towards environmental sustainability in European countries.* Sustainability Science. https://doi.org/10.1007/s11625-022-01167-2 
 
-1. Usubiaga‑Liaño, A., & Ekins, P. (2022). *Are we on the right path? Measuring progress towards environmental sustainability in European countries.* Sustainability Science. https://doi.org/10.1007/s11625-022-01167-2 :contentReference[oaicite:2]{index=2}
-
-1. Usubiaga‑Liaño, A., & Ekins, P. (2021). *Monitoring the environmental sustainability of countries through the Strong Environmental Sustainability Index.* Ecological Indicators, 132, 108281. https://doi.org/10.1016/j.ecolind.2021.108281 :contentReference[oaicite:1]{index=1}
+1. Usubiaga‑Liaño, A., & Ekins, P. (2021). *Monitoring the environmental sustainability of countries through the Strong Environmental Sustainability Index.* Ecological Indicators, 132, 108281. https://doi.org/10.1016/j.ecolind.2021.108281 
 
 
 **Links to the wider indicator initiatives**
 
-1. Usubiaga‑Liaño, A., Selomane, O., & Comte, A. (2025). Strong sustainability in the SEEA and the wider indicator landscape. *One Ecosystem, 10*, e141086. https://doi.org/10.3897/oneeco.10.e141086 :contentReference[oaicite:0]{index=0}
+1. Usubiaga‑Liaño, A., Selomane, O., & Comte, A. (2025). Strong sustainability in the SEEA and the wider indicator landscape. *One Ecosystem, 10*, e141086. https://doi.org/10.3897/oneeco.10.e141086 
 
-1. Usubiaga‑Liaño, A., Fairbrass, A., & Ekins, P. (2024). Strong sustainability and the environmental dimension of the Sustainable Development Goals. *Global Sustainability, 7*, e52. https://doi.org/10.1017/sus.2024.47 :contentReference[oaicite:1]{index=1}
+1. Usubiaga‑Liaño, A., Fairbrass, A., & Ekins, P. (2024). Strong sustainability and the environmental dimension of the Sustainable Development Goals. *Global Sustainability, 7*, e52. https://doi.org/10.1017/sus.2024.47 
 
 
 
