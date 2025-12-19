@@ -47,6 +47,39 @@
   i {
     font-style: italic;
   }
+
+    /* Right-hand side: image preview + Altmetric */
+  .paper-side {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .doi-preview {
+    width: 120px;
+    height: 170px;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    box-shadow: 1px 2px 6px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .doi-preview img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  .pub-content {
+    flex: 1;
+  }
+
+  .altmetric-badge {
+    flex-shrink: 0;
+  }
+
 </style>
 
 <script
@@ -108,13 +141,89 @@ Sato, M., Usubiaga‑Liaño, A., Fairbrass, A., Ekins, P., & Asuka, J. (2024). <
 Comte, A., Surun, C., & Levrel, H. (2023). <i>Measuring and managing for environmental sustainability: An application of the Environmental Sustainability Gap (ESGAP) framework in New Caledonia.</i> Environmental Science & Policy, 146, 113–122. <a href="https://doi.org/10.1016/j.envsci.2023.05.007">Link</a>
 </div>
 
-<div class="pub-card">
-Usubiaga‑Liaño, A., & Ekins, P. (2022). <i>Are we on the right path? Measuring progress towards environmental sustainability in European countries.</i> Sustainability Science. <a href="https://doi.org/10.1007/s11625-022-01167-2">Link</a>
+<<div class="paper-overview">
+
+  <div>
+    <div class="paper-meta">
+      <strong>Sustainability Science</strong> · 2022
+    </div>
+
+    <div class="paper-title">
+      Are we on the right path? Measuring progress towards environmental sustainability in European countries
+    </div>
+
+    <div class="paper-authors">
+      Arkaitz Usubiaga-Liaño, Paul Ekins
+    </div>
+
+    <div class="paper-links">
+      <a href="https://doi.org/10.1007/s11625-022-01167-2">Journal page</a>
+    </div>
+  </div>
+
+  <div class="paper-side">
+
+    <a href="https://doi.org/10.1007/s11625-022-01167-2" target="_blank">
+      <div class="doi-preview">
+        <img
+          src="/assets/images/sustainability-science-2022-europe.png"
+          alt="Sustainability Science article overview">
+      </div>
+    </a>
+
+    <span
+      class="altmetric-embed"
+      data-doi="10.1007/s11625-022-01167-2"
+      data-badge-type="donut"
+      data-badge-popover="right">
+    </span>
+
+  </div>
+
 </div>
 
-<div class="pub-card">
-Usubiaga‑Liaño, A., & Ekins, P. (2021). <i>Monitoring the environmental sustainability of countries through the Strong Environmental Sustainability Index.</i> Ecological Indicators, 132, 108281. <a href="https://doi.org/10.1016/j.ecolind.2021.108281">Link</a>
+
+<div class="paper-overview">
+
+  <div>
+    <div class="paper-meta">
+      <strong>Ecological Indicators</strong> · Volume 132 · 2021
+    </div>
+
+    <div class="paper-title">
+      Monitoring the environmental sustainability of countries through the Strong Environmental Sustainability Index
+    </div>
+
+    <div class="paper-authors">
+      Arkaitz Usubiaga-Liaño, Paul Ekins
+    </div>
+
+    <div class="paper-links">
+      <a href="https://doi.org/10.1016/j.ecolind.2021.108281">Journal page</a>
+    </div>
+  </div>
+
+  <div class="paper-side">
+
+    <a href="https://doi.org/10.1016/j.ecolind.2021.108281" target="_blank">
+      <div class="doi-preview">
+        <img
+          src="/assets/images/ecological-indicators-2021-sesi.png"
+          alt="Ecological Indicators article overview">
+      </div>
+    </a>
+
+    <span
+      class="altmetric-embed"
+      data-doi="10.1016/j.ecolind.2021.108281"
+      data-badge-type="donut"
+      data-badge-popover="right">
+    </span>
+
+  </div>
+
 </div>
+
 
 <div class="section-title">Links to the wider indicator initiatives</div>
 
