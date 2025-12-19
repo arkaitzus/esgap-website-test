@@ -48,7 +48,15 @@
 <div class="section-title">The ESGAP framework and methodological developments</div>
 
 <div class="pub-card">
-Usubiaga‑Liaño, A., & Ekins, P. (2021). <i>Time for science‑based national targets for environmental sustainability: An assessment of existing metrics and the ESGAP framework.</i> Frontiers in Environmental Science, 9, 761377. <a href="https://doi.org/10.3389/fenvs.2021.761377">Link</a>
+  <div class="pub-content">
+    Usubiaga‑Liaño, A., & Ekins, P. (2021). <i>Time for science‑based national targets for environmental sustainability: An assessment of existing metrics and the ESGAP framework.</i> Frontiers in Environmental Science, 9, 761377. <a href="https://doi.org/10.3389/fenvs.2021.761377">Link</a>
+  </div>
+  <div class="altmetric-badge">
+    <!-- Live Altmetric badge -->
+    <a href="https://www.altmetric.com/details/761377" target="_blank">
+      <img src="https://badges.altmetric.com/?size=100&score=0" alt="Altmetric Score"/>
+    </a>
+  </div>
 </div>
 
 <div class="pub-card">
