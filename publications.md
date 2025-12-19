@@ -10,6 +10,13 @@
 
 1. Ekins, P., & Simon, S. (1999). *The sustainability gap: A practical indicator of sustainability in the framework of the national accounts.* International Journal of Sustainable Development, 2(1), 32–58. https://doi.org/10.1504/IJSD.1999.004313
 
+<div style="background-color:#eef6f9; padding:15px; border-left:4px solid #4a90e2; border-radius:8px; margin-bottom:12px;">
+  <strong>Usubiaga-Liaño, A., & Ekins, P. (2021).</strong><br>
+  <em>Monitoring the environmental sustainability of countries through the Strong Environmental Sustainability Index.</em> Ecological Indicators, 132, 108281.<br>
+  <a href="https://doi.org/10.1016/j.ecolind.2021.108281" target="_blank">DOI link</a>
+</div>
+
+
 
 **Biophysical ESGAP: SESI and SESPI**
 
