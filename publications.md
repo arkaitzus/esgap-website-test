@@ -130,6 +130,10 @@ layout: default
              alt="Progress in Physical Geography overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.1177/0309133311423186"
+          data-badge-type="donut"></span>
   </div>
 </div>
 
@@ -148,6 +152,10 @@ layout: default
              alt="Ecological Economics framework overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.1016/S0921-8009(02)00272-0"
+          data-badge-type="donut"></span>
   </div>
 </div>
 
@@ -166,6 +174,10 @@ layout: default
              alt="Ecological Economics CNC overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.1016/S0921-8009(02)00278-1"
+          data-badge-type="donut"></span>
   </div>
 </div>
 
@@ -184,6 +196,10 @@ layout: default
              alt="IJSD sustainability gap overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.1504/IJSD.1999.004313"
+          data-badge-type="donut"></span>
   </div>
 </div>
 
@@ -207,6 +223,11 @@ layout: default
              alt="Environmental and Sustainability Indicators Colombia overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.1016/j.indic.2025.100812"
+          data-badge-type="donut"></span>
+
   </div>
 </div>
 
@@ -247,6 +268,10 @@ layout: default
              alt="Environmental Science & Policy New Caledonia overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.1016/j.envsci.2023.05.007"
+          data-badge-type="donut"></span>
   </div>
 </div>
 
@@ -314,6 +339,11 @@ layout: default
              alt="One Ecosystem strong sustainability overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.3897/oneeco.10.e141086"
+          data-badge-type="donut"></span>
+
   </div>
 </div>
 
@@ -328,10 +358,15 @@ layout: default
   <div class="paper-side">
     <a href="https://doi.org/10.1017/sus.2024.47" target="_blank">
       <div class="doi-preview">
-        <img src="{{ site.baseurl }}/assets/images/usubiaga_gg_2024.png"
+        <img src="{{ site.baseurl }}/assets/images/usubiaga_gs_2024.png"
              alt="Global Sustainability SDGs overview">
       </div>
     </a>
+
+    <span class="altmetric-embed"
+          data-doi="10.1017/sus.2024.47"
+          data-badge-type="donut"></span>
+
   </div>
 </div>
 
