@@ -166,7 +166,7 @@ Comte, A., Surun, C., & Levrel, H. (2023). <i>Measuring and managing for environ
     <a href="https://doi.org/10.1007/s11625-022-01167-2" target="_blank">
       <div class="doi-preview">
         <img
-          src="/assets/images/sustainability-science-2022-europe.png"
+          src="/assets/images/usubiaga_ss_2023.png"
           alt="Sustainability Science article overview">
       </div>
     </a>
@@ -208,7 +208,7 @@ Comte, A., Surun, C., & Levrel, H. (2023). <i>Measuring and managing for environ
     <a href="https://doi.org/10.1016/j.ecolind.2021.108281" target="_blank">
       <div class="doi-preview">
         <img
-          src="/assets/images/ecological-indicators-2021-sesi.png"
+          src="/assets/images/usubiaga_ei_2021.png"
           alt="Ecological Indicators article overview">
       </div>
     </a>
