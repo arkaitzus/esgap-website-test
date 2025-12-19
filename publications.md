@@ -23,6 +23,10 @@
     margin: 12px 0;
     box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
     transition: transform 0.2s, box-shadow 0.2s;
+
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
   }
 
   .pub-card:hover {
