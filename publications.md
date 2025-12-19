@@ -61,19 +61,16 @@ layout: default
 
   .doi-preview {
     width: 120px;
-    height: 170px;
-    background: #ffffff;
-    border: 1px solid #ddd;
-    box-shadow: 1px 2px 6px rgba(0,0,0,0.1);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    display: block;
   }
 
   .doi-preview img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
+    width: 100%;
+    height: auto;
+    display: block;
   }
 
   .pub-content {
