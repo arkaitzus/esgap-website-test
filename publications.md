@@ -374,18 +374,26 @@ layout: default
 </div>
 
 <script>
+console.log("OpenAlex citation script loaded");
+
 async function loadFrontiersCitations() {
-  const doi = "10.3389/fenvs.2021.761377";
   const target = document.getElementById("citations-fes-2021");
 
+  if (!target) {
+    console.error("Citation span not found");
+    return;
+  }
+
   try {
-    const response = await fetch(`https://api.openalex.org/works/doi:${doi}`);
+    const response = await fetch("https://api.openalex.org/works/doi:10.3389/fenvs.2021.761377");
     const data = await response.json();
+    console.log("OpenAlex data:", data);
     target.textContent = data.cited_by_count ?? "N/A";
   } catch (error) {
+    console.error("OpenAlex fetch failed", error);
     target.textContent = "N/A";
   }
 }
 
-document.addEventListener("DOMContentLoaded", loadFrontiersCitations);
+window.addEventListener("load", loadFrontiersCitations);
 </script>
