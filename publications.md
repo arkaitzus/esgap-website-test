@@ -99,6 +99,9 @@ layout: default
     An assessment of existing metrics and the ESGAP framework.</i>
     Frontiers in Environmental Science, 9, 761377.
     <a href="https://doi.org/10.3389/fenvs.2021.761377">Link</a>
+    <div style="margin-top:6px; font-size:0.9em; color:#555;">
+      Citations (OpenAlex): <span id="citations-fes-2021">loading…</span>
+    </div>
   </div>
 
   <div class="paper-side">
@@ -370,4 +373,19 @@ layout: default
   </div>
 </div>
 
+<script>
+async function loadFrontiersCitations() {
+  const doi = "10.3389/fenvs.2021.761377";
+  const target = document.getElementById("citations-fes-2021");
 
+  try {
+    const response = await fetch(`https://api.openalex.org/works/doi:${doi}`);
+    const data = await response.json();
+    target.textContent = data.cited_by_count ?? "N/A";
+  } catch (error) {
+    target.textContent = "N/A";
+  }
+}
+
+document.addEventListener("DOMContentLoaded", loadFrontiersCitations);
+</script>
